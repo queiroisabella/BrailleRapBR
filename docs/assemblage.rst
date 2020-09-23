@@ -1,3 +1,31 @@
+Manual de montagem BrailleRAP-SP
+=================================
+
+
+Colando a caixa de madeira
+-----------------------------
+
+Equipamento:
+
+     * FACE (contraplacado cortado a laser de 5 mm).
+     * BACK (contraplacado cortado a laser de 5 mm)
+     * INFERIOR (contraplacado cortado a laser de 5 mm).
+     * LEFT_SIDE (contraplacado cortado a laser de 5 mm).
+     * RIGHT_SIDE (contraplacado cortado a laser de 5 mm).
+     * Cola de madeira.
+     * Fita do pintor.
+
+* Prepare os 5 elementos: FACE, BACK, LEFT_SIDE, RIGHT_SIDE e BOTTOM.
+
+.. image :: ./IMG/BrailleRAP-V5.02.1.jpg
+        : align: center
+
+* Cole os entalhes, monte as 5 peças e segure-as no lugar com fita adesiva pelo tempo de secagem recomendado pelo fabricante.
+
+.. image :: ./IMG/BrailleRAP-V5.01.jpg
+        : align: center
+        
+        
 Manuel de montage BrailleRAP-SP
 ===============================
 
