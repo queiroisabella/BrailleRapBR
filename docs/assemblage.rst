@@ -18,12 +18,12 @@ Equipamento:
 * Prepare os 5 elementos: FACE, BACK, LEFT_SIDE, RIGHT_SIDE e BOTTOM.
 
 .. image :: ./IMG/BrailleRAP-V5.02.1.jpg
-        : align: center
+        :align: center
 
 * Cole os entalhes, monte as 5 peças e segure-as no lugar com fita adesiva pelo tempo de secagem recomendado pelo fabricante.
 
 .. image :: ./IMG/BrailleRAP-V5.01.jpg
-        : align: center
+        :align: center
         
         
 Manuel de montage BrailleRAP-SP
