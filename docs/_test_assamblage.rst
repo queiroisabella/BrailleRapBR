@@ -79,7 +79,7 @@ Material:
 .. image :: ./IMG/BrailleRAP-V5.04.jpg
        :align: center
 
-.. CUIDADO :: A ilustração mostra um suporte de motor projetado para uma correia de 200 mm, mas o conjunto é o mesmo com um suporte de motor projetado para uma correia de 220 mm.
+.. ATENÇÃO:: A ilustração mostra um suporte de motor projetado para uma correia de 200 mm, mas o conjunto é o mesmo com um suporte de motor projetado para uma correia de 220 mm.
 
 * Insira as porcas NYL M3 no suporte do motor.
 
@@ -105,9 +105,9 @@ Preparação de suportes de eixo
   * 8 porcas M3
   * 8 parafusos M3-12
 
-.. CUIDADO:: Dependendo da qualidade de impressão das peças plásticas, certifique-se de que as barras de 8 mm possam deslizar facilmente em seus slots. Se necessário, faça o furo com uma broca 8.
+.. ATENÇÃO:: Dependendo da qualidade de impressão das peças plásticas, certifique-se de que as barras de 8 mm possam deslizar facilmente em seus slots. Se necessário, faça o furo com uma broca 8.
 
-Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8.
+.. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8.
 
 * Para cada uma das 4 peças, insira uma porca M3 nos orifícios retangulares. Aperte os parafusos M3-12.
 
