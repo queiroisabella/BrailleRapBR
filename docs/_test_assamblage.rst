@@ -105,7 +105,7 @@ Preparação de suportes de eixo
   * 8 porcas M3
   * 8 parafusos M3-12
 
-.. CUIDADO :: Dependendo da qualidade de impressão das peças plásticas, certifique-se de que as barras de 8 mm possam deslizar facilmente em seus slots. Se necessário, faça o furo com uma broca 8.
+.. CUIDADO:: Dependendo da qualidade de impressão das peças plásticas, certifique-se de que as barras de 8 mm possam deslizar facilmente em seus slots. Se necessário, faça o furo com uma broca 8.
 
 * Para cada uma das 4 peças, insira uma porca M3 nos orifícios retangulares. Aperte os parafusos M3-12.
 
