@@ -107,6 +107,9 @@ Preparação de suportes de eixo
 
 .. CUIDADO:: Dependendo da qualidade de impressão das peças plásticas, certifique-se de que as barras de 8 mm possam deslizar facilmente em seus slots. Se necessário, faça o furo com uma broca 8.
 
+
+.. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8.
+
 * Para cada uma das 4 peças, insira uma porca M3 nos orifícios retangulares. Aperte os parafusos M3-12.
 
 .. image :: ./IMG/BrailleRAP-V5.09.1.jpg
