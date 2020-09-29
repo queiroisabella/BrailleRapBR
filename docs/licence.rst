@@ -1,10 +1,10 @@
-Licence
+Licença
 =======
 
-Tous les travaux originaux de BrailleRapSP sont sous la license CERN Open Hardware Licence v1.2 (https://www.ohwr.org/projects/cernohl/wiki), traduite en français sur cette page: http://fr-voosilla.ouvaton.org/CERN-OHL-%5Bfr%5D-Traduction-Fran%C3%A7aise.html
+Todos os trabalhos originais do BrailleRapBR estão licenciados sob a licença CERN Open Hardware License v1.2  (https://www.ohwr.org/projects/cernohl/wiki), traduite en français sur cette page: http://fr-voosilla.ouvaton.org/CERN-OHL-%5Bfr%5D-Traduction-Fran%C3%A7aise.html
 
 
-Nous utilisons plusieurs projets open source, qui ont leur propre licence :
+Usamos vários projetos de código aberto, que possuem licença própria:
 
-   #. Le projet "Marlin firmware"  pour le firmware de la carte: https://github.com/MarlinFirmware/Marlin 
-   #. BrailleRap qui a un générateur de gcode  https://github.com/arthursw/BrailleRap
+   #. O projeto “firmware Marlin” como o firmware para a placa de controle: https://github.com/MarlinFirmware/Marlin 
+   #. BrailleRap que tem um gerador de gcode https://github.com/arthursw/BrailleRap
