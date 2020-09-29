@@ -1,64 +1,60 @@
-Liste du matériel
+Lista de Materiais
 ================
 
-Découpe laser
+Corte a laser
 -------------
-2 planches de contreplaqué 5mm en 600mm x 400mm.
+2 folhas de contraplacado de 600 mm x 400 mm 5 m
+Os arquivos dxf estão disponíveis aqui:  https://github.com/hackatondeacessibilidade/BrailleRapBR/tree/master/lasercut
 
-Les fichiers au format dxf sont disponibles ici : https://github.com/BrailleRapSP/BrailleRapSP/tree/master/lasercut
-
-
-Pièces imprimées
+Peças impressas
 -------------
-Toutes les pièces sont imprimées en ABS, 50% de remplissage, 3 périmètres extérieurs. Nous utilisons le filament eSun ABS Natural.
+Todas as peças impressas são impressas em ABS, 50% preenchido, 3 perímetros externos. Usamos filamento natural eSun ABS
+Adicionar link para download stl
 
-Ajouter le lien pour le téléchargement de STL
-
-
-Pièces mécaniques
+Partes mecânicas
 ----------------
 
 
 === =========================================
-Qty Type
+Qty Tipo
 === =========================================
-4   Rail de guidage linéaire ( diamètre 8mm ) 330 mm length
-1   Rail de guidage linéaire ( diamètre 8mm ) 365 mm length
-1   Rail de guidage linéaire ( diamètre 8mm ) *100 mm* length
+4   Trilho Linear de 8 mm de diâmetro 330 mm de comprimento
+1   Trilho linear de 8 mm de diâmetro 365 mm de comprimento
+1   Trilho linear de 8 mm de diâmetro 100 mm de comprimento
 
-6   RJ4JP-01-08 palier linéaire Polymer  
+6   Bucha linear de polímero RJ4JP-01-08
 
 
-3   GT2 poulie 20 dents pour axe 8mm    
-2   GT2 poulie libre 20 dents axe 3mm (avec roulement à billes)
+3   GT2 polia 20 dentes 8 mm furo
+2   GT2 livre polia 20 dentes com furo de 3 mm (com rolamento)
 
-2   KP08  pallier horizontal pour rail linéaire 8mm 
-2   KFL08 pallier vertical pour rail linéaire 8mm 
+2   Rolamento linear KP08 para eixo linear de 8 mm
+2   Rolamento vertical KFL08 para eixo linear de 8 mm
 
-1   Accouplement d'axe 5mm/8mm
+1   Acoplamento 5mm / 8mm
 
-2   Nema 17 40 N/cm avec câble
+2   Nema 17 40 N / cm com fio
 
-1   Courroie GT2 fermée 200 mm
-2   630 mm de courroie GT2
+1   Correia GT2 fechada 200 mm
+2   Correia GT2 630 mm
 
-2   Joints torique 15.1 mm diamètre intérieur 20.5 mm de diamètre extérieur (15.1 x 20.5 x 2.7)
+2   O-ring de 15,1 mm de diâmetro interno 20,5 mm de diâmetro externo (15,1 x 20,5 x 2,7)
 ...
 === =========================================
 
 
-Electronique
+Eletrônicos
 ------------------
 
 === =========================================
-Qty Type
+Qt Tipo
 === =========================================
-1   MKS GEN 1.4 ou carte compatible Ramps 1.4 
-2   drivers DRV8825 avec radiateur
-1   Electro-aimant *tau-826* 12V 2A
-1   1N4004  diode de roue libre ou equivalent (12V 2A)
-1   Embase Alimentation jack 2.5
-1   Alimentation 12v 6A 
+1   Placa compatível com MKS GEN 1.4 ou Ramps 1.4
+2   Drivers DRV8825 com radiador de refrigeração
+1   Eletroímã tau-826 12V 2A
+1   Diodo flyback 1N4004 (12V 2A)
+1   jack 2,5 mm embase
+1   Alimentação 12V 6A
 === =========================================
 
 

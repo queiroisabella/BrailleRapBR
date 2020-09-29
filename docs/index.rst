@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Bienvenue sur la documentation BrailleRAP-SP
+Bem-vindo à documentação do BrailleRAP-BR
 ============================================
 
 .. image :: ./IMG/brailleRAP_couv.jpg 
   :width: 400px
   :align: center
 
-Contenu:
+Conteúdo:
 
 .. toctree::
    :maxdepth: 3

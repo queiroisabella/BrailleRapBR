@@ -1,35 +1,26 @@
-# BrailleRapSP
+# BrailleRapBR
 
 Embosser Braille de código aberto
-
-A documentação completa está disponível aqui http://braillerapsp.readthedocs.io/fr/latest/index.html
-
-veja também http://www.braillerap.com
 
 =========================================================== ===========================
 
 Máquina de gravação em Braille de código aberto
 
+O presente projeto teve como base o projeto BrailleRapSP com objetivo de promover a acessibilidade por meio do evento Hackaton de Acessibilidade.
+A ORGANIZAÇÃO Elaborando é uma entidade sem fins lucrativos, fundada em 2011, que atua na elaboração e sistematização de metodologias e estratégias para o desenvolvimento social, considerando três campos de atuação:
+o apoio a pessoas com síndrome de Down e suas famílias; a promoção da educação Integral e a sistematização e desenvolvimento metodológico de projetos sociais.
+Esta iniciativa conta com o apoio da Fundação Ford.
 
-a documentação completa está disponível aqui https://braillerapsp-en.readthedocs.io/en/latest/index.html
+## Colaboradores
 
-BrailleRapSP também tem um site http://www.braillerap.com
+* Denise Alves Rodrigues de Oliveira
+* Fernando Daguanno
+* Lucas Dominique da Silva
+* Isabella Queiroz Paes
+* Juliano Lopes da Costa
 
-
-
-# BrailleRapSP
-
-Embosseuse Braille Open Source
-
-La documentation complete est disponible ici http://braillerapsp.readthedocs.io/fr/latest/index.html
-
-voir egalement http://www.braillerap.com
-
-==========================================================================
-
-Open Source Braille embosser
+A documentação do projeto original está disponível aqui [BrailleRapSP](https://braillerapsp-en.readthedocs.io/en/latest/index.html)
+e em seu site [Site BrailleRapSP](http://www.braillerap.com)
 
 
-the full documentation is available here https://braillerapsp-en.readthedocs.io/en/latest/index.html
 
-BrailleRapSP also have a website http://www.braillerap.com

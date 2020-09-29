@@ -1,53 +1,50 @@
-Embosser votre première page de Braille
+Grave seu primeiro texto em Braille
 =======================================
 
 
 
-BrailleRapSP est est machine qui se pilote en G-CODE, pour embosser du braille il faut tout d'abord traduire le texte en Braille.
-Il existe 2 solutions pour traduire le Braille :
-L'application BrailleRap en ligne https://crocsg.github.io/BrailleRap/
-L'application NatBraille http://natbraille.free.fr 
+BrailleRapSP é uma máquina acionada por G-CODE, para estampar braille é necessário antes de tudo traduzir o texto em Braille.
+Existem 2 soluções para traduzir Braille:
+O aplicativo BrailleRap online https://crocsg.github.io/BrailleRap/
+O aplicativo NatBraille  http://natbraille.free.fr 
 
 
-Utilisation de l'application BrailleRap
+Utilização do aplicativo BrailleRap
 ---------------------------------------
 
-Aller sur la page https://crocsg.github.io/BrailleRap/
+vá para https://crocsg.github.io/BrailleRap/
 
 .. image :: ./IMG/braillerapapp.png
        :align: center
-Entrer votre texte à l'endroit indiqué, et télécharger ensuite le fichier GCODE contenant les instructions pour l'embosseuse
+Digite seu texto e baixe o arquivo GCODE para a impressora
 
 .. image :: ./IMG/braillerapapp_download.png
        :align: center
 
-Vous pouvez ensuite utiliser un logiciel comme **cura** ou **pronterface** pour envoyer le fichier GCODE à l'imprimante
+Para enviar o arquivo GCODE para a impressora, você pode usar um software como **cura** ou **pronterface** 
 
 
 
-Configuration NatBraille
+Configuração NatBraille
 ------------------------
 
-Compiler les programmes dans le repertoire NatBrailleTools du projet
+Crie software no diretório do projeto NatBrailleTools
 
-Dans les options générales NatBraille, utiliser **TbFr2007** pour la table braille, Encodage document noir **Automtique**, Encodage document braille **Windows1252**
+Nas opções gerais do NatBraille, use TbFr2007 para tabela Braille, codificação de documento em preto automatizado , codificação de documento em Braille Windows1252
 
 .. image :: ./IMG/natbraille.png
        :align: center
 
-Dans les options d'embossage, utiliser **TbFr2007** pour la table braille pour l'embossage
-
-Activer l'option **utiliser une commande systeme pour l'embossage**
-
-le paramêtre  pour commande d'impression est : **java -jar d:\\usr\\home\\logger\\BrailleLogger.jar $f | java -jar d:\\usr\\home\\logger\\gcodestreamer.jar COM4 250000**
-en modifiant eventuellement les repertoires d'installation des programmes
-COM4 est le port serie utilisé pour communiquer avec l'imprimante
+Nas opções de relevo, use TbFr2007 para tabela braille para relevo
+Habilitar opção usar um comando do sistema para estampagem
+use o parâmetro java -jar d: \ usr \ home \ logger \ BrailleLogger.jar $ f | java -jar d: \ usr \ home \ logger \ gcodestreamer.jar COM4 250000 para comando de impressora.
+Você precisa modificar o diretório executável e a referência da porta COM
 
 .. image :: ./IMG/natbrailleembossig.png
        :align: center
 
 
-Dans les options de mise en page, indiquer 31 et 26 dans le nombre de caracter par ligne et le nombre de lignes par page
+Nas configurações da página, insira 31 e 26 como caractere por linha e linha por página
 
 .. image :: ./IMG/natbraille_page.png
        :align: center

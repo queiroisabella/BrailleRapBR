@@ -1,24 +1,24 @@
-Marlin Firmware pour cartes Ramps ou compatibles
+Rampas ou placas compatíveis com firmware Marlin
 ================================================
 
 
 
-.. Note:: Le firmware Marlin est utilisé pour contrôler l'embosseuse Braille. Nous utilisons la configuration CNC pour contrôler l'électro-aimant avec les commandes associées au moteur de CNC / stylo / laser (GCODE M3 et M4)
+.. Note:: O firmware Marlin é usado para controlar o embosseuse Braille. Nous usa a configuração CNC para controlar o sistema elétrico com comandos associados ao motor de CNC / stylo / laser (GCODE M3 e M4)
 
 
-Configuration Marlin
+Configuração Marlin
 -------------------
 
-in configuration.h 
+em configuration.h 
 
-Motherboard configuration ::
+Configuração da placa-mãe ::
 
    #ifndef MOTHERBOARD
      //#define MOTHERBOARD BOARD_RAMPS_14_EFB
      #define MOTHERBOARD BOARD_RAMPS_14_SF
    #endif
 
-Spindle / laser / pen configuration ::
+Configuração de fuso / laser / caneta ::
 
    // BRAILLE RAP CONFIG
    #define SPINDLE_LASER_ENABLE
@@ -27,9 +27,9 @@ Spindle / laser / pen configuration ::
    #define SPINDLE_DIR_PIN           5                 // pin servo
 
 
-Endstop configuration ::
+Configuração de parada final ::
 
-   // Mechanical endstop with COM to ground and NC to Signal uses "false" here (most common setup).
+   // O fim de curso mecânico com COM para aterrar e NC para Sinal usa "false" aqui (configuração mais comum).
    #define X_MIN_ENDSTOP_INVERTING false // set to true to invert the logic of the endstop.
    #define Y_MIN_ENDSTOP_INVERTING false // set to true to invert the logic of the endstop.
    #define Z_MIN_ENDSTOP_INVERTING false // set to true to invert the logic of the endstop.
@@ -39,15 +39,15 @@ Endstop configuration ::
    #define Z_MIN_PROBE_ENDSTOP_INVERTING false // set to true to invert the logic of the probe.
 
 
-Motor step / mm ::
+Passo do motor / mm ::
 
    #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 46, 4000, 500 }
 
-Max feedrate ::
+Velocidade máxima de alimentação ::
 
    #define DEFAULT_MAX_FEEDRATE          { 300, 300, 5, 25 }
 
-Acceleration ::
+Aceleração ::
 
    #define DEFAULT_MAX_ACCELERATION      { 1500, 1500, 100, 10000 }
 
@@ -55,14 +55,14 @@ Acceleration ::
    #define DEFAULT_RETRACT_ACCELERATION  1500    // E acceleration for retracts
    #define DEFAULT_TRAVEL_ACCELERATION   1500    // X, Y, Z acceleration for travel (non printing) moves
 
-Jerk ::
+Empurrão ::
 
    #define DEFAULT_XJERK                 5.0
    #define DEFAULT_YJERK                 5.0
    #define DEFAULT_ZJERK                 0.3
    #define DEFAULT_EJERK                 5.0
 
-Dans la version présente sur le github du projet BrailleRap-SP, d'autres fichiers ont été modifiés pour gérer l'alimentation du papier avec le fin de course de l'axe Y.
+Na versão atual do github BrailleRap-SP, outros arquivos foram modificados para lidar com a posição da folha de papel com o ponto final em Y.
  
  
 
