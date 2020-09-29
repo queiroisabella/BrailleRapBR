@@ -1,10 +1,6 @@
 # BrailleRapBR
 
-Embosser Braille de código aberto
-
-=========================================================== ===========================
-
-Máquina de gravação em Braille de código aberto
+Impressora Braille de código aberto
 
 O presente projeto teve como base o projeto BrailleRapSP com objetivo de promover a acessibilidade por meio do evento Hackaton de Acessibilidade.
 A ORGANIZAÇÃO Elaborando é uma entidade sem fins lucrativos, fundada em 2011, que atua na elaboração e sistematização de metodologias e estratégias para o desenvolvimento social, considerando três campos de atuação:
