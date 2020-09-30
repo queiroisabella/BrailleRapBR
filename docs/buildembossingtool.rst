@@ -1,8 +1,7 @@
-Building the embossing tool
-===========================
+Construindo a ferramenta de gravação
+=============================
 
 Material
 --------
 
-The embossing tool is made of an M3 screw, machined with a dremel like tool.
-
+A ferramenta de estampagem é feita de um parafuso M3, usinado com uma ferramenta tipo dremel.
