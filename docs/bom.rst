@@ -16,7 +16,7 @@ Partes mecânicas
 
 
 === =========================================
-Qty Tipo
+Qt Tipo
 === =========================================
 4   Trilho Linear de 8 mm de diâmetro 330 mm de comprimento
 1   Trilho linear de 8 mm de diâmetro 365 mm de comprimento
