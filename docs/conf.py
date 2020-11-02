@@ -29,8 +29,8 @@ source_parsers = {
 }
 
 master_doc = 'index'
-project = u'BrailleRap-SP'
-copyright = '2018-{}, BrailleRap-SP Team'
+project = u'BrailleRap-BR'
+copyright = '2020-{}, Equipe de BrailleRap-BR'
 
 version = '1.0'
 release = '1.0'
@@ -43,10 +43,10 @@ pygments_style = 'sphinx'
 #    'django': ('http://django.readthedocs.io/en/1.8.x/', None),
 #    'sphinx': ('http://sphinx.readthedocs.io/en/latest/', None),
 #}
-htmlhelp_basename = 'BrailleRapSPdoc'
+htmlhelp_basename = 'BrailleRapBRdoc'
 latex_documents = [
-    ('index', 'BrailleRapSP.tex', u'BrailleRapSP Documentation',
-     u'BrailleRap-SP Team', 'manual'),
+    ('index', 'BrailleRapBR.tex', u'Documentação BrailleRapBR',
+     u'Equipe BrailleRap-BR', 'manual'),
 ]
 
 #man_pages = [
@@ -58,7 +58,7 @@ exclude_patterns = [
     # 'api' # needed for ``make gettext`` to not die.
 ]
 
-language = 'fr'
+language = 'pt'
 
 locale_dirs = [
     'locale/',
