@@ -26,5 +26,8 @@ Em janeiro de 2018, começamos com alguns trilhos lineares, motores Nema e peça
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
 	    <iframe width="560" height="315" src="https://www.youtube.com/embed/IYYWQi-H3YY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"> </iframe> 
     </div>
-
+    
+BrailleRap-BR
+-------------
+Em junho de 2019 o coletivo brasileiro eLABorando organiza o Hackaton de tecnologias acessíveis. uma iniciativa para gerar soluções tecnológicas para o mercado laboral. Diversas propostas foram realizadas durante os dois dias de trabalho em Rio de Janeiro e 2 foram selecionadas para ser implementadas. Uma delas foi um conceito de ledor braille que logo viraria printer Braille. Em 2020, após pesquisar projetos open-source existentes, BrailleRap-SP foi escolhido, re-criado, traduzido e adaptado ás possibilidades locais. 2 printers foram montadas, uma em Rio de Janeiro e outra em São Paulo. Este é o resultado desse trabalho entre os meses de junho e outubro de 2020.
 
