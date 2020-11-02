@@ -1,9 +1,9 @@
-Rampas ou placas compatíveis com firmware Marlin
+RAMPS ou placas compatíveis com firmware Marlin
 ================================================
 
 
 
-.. Note:: O firmware Marlin é usado para controlar o embosseuse Braille. Nous usa a configuração CNC para controlar o sistema elétrico com comandos associados ao motor de CNC / stylo / laser (GCODE M3 e M4)
+.. Note:: O firmware Marlin é usado para controlar a impressora/gravadora/vincadora Braille. Nós usamos a configuração CNC para controlar o sistema elétrico com comandos associados ao motor de CNC / stylo / laser (GCODE M3 e M4)
 
 
 Configuração Marlin
@@ -62,7 +62,7 @@ Empurrão ::
    #define DEFAULT_ZJERK                 0.3
    #define DEFAULT_EJERK                 5.0
 
-Na versão atual do github BrailleRap-SP, outros arquivos foram modificados para lidar com a posição da folha de papel com o ponto final em Y.
+Na versão atual do github BrailleRap-SP (projeto origianl) e BraillRap-BR (versão brasileira), outros arquivos foram modificados para lidar com a posição da folha de papel com o ponto final em Y.
  
  
 
