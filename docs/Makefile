@@ -1,10 +1,10 @@
 # Minimal makefile for Sphinx documentation
-#
+# Editada por HackatonDeAcessibilidade em outubro de 2020
 
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = BraillerapSP
+SPHINXPROJ    = BraillerapBR
 SOURCEDIR     = .
 BUILDDIR      = _build
 
