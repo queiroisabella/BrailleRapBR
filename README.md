@@ -49,5 +49,5 @@ e em seu site [Site BrailleRapSP](http://www.braillerap.com)
 [<img src="https://static.wixstatic.com/media/ad89b2_45000cf1e7704836935281a9dbf2eb7a~mv2.png/v1/fill/w_314,h_54,al_c,q_85,usm_0.66_1.00_0.01/ford.webp">](https://www.fordfoundation.org/)  
 
 
-[<img src="https://i.creativecommons.org/l/by/4.0/88x31.png">]
+[<img src="https://i.creativecommons.org/l/by/4.0/88x31.png">](http://creativecommons.org/licenses/by/4.0/) 
 Este trabalho é licenciado por [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)
