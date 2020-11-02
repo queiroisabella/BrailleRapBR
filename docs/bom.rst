@@ -3,12 +3,12 @@ Lista de Materiais
 
 Corte a laser
 -------------
-2 folhas de contraplacado de 600 mm x 400 mm 5 m
+2 folhas de compensado de 600 mm x 400 mm 5 m
 Os arquivos dxf estão disponíveis aqui:  https://github.com/hackatondeacessibilidade/BrailleRapBR/tree/master/lasercut
 
 Peças impressas
 -------------
-Todas as peças impressas são impressas em ABS, 50% preenchido, 3 perímetros externos. Usamos filamento natural eSun ABS
+Todas as peças impressas são impressas em ABS, 50% preenchido (dependendo da qualidade da sua impressora, até 100% pode ser necessário), 3 perímetros externos. Usamos filamento natural eSun ABS
 Adicionar link para download stl
 
 Partes mecânicas
