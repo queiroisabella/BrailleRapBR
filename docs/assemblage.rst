@@ -1,60 +1,63 @@
-Manual de montagem BrailleRAP-SP
+Manual de montagem BrailleRAP-BR
 =================================
 
 
-Colando a caixa de madeira
+Colando o chassis ou caixa de madeira
 -----------------------------
 
-Equipamento:
+Materiais:
 
-     * FACE (contraplacado cortado a laser de 5 mm).
-     * BACK (contraplacado cortado a laser de 5 mm)
-     * INFERIOR (contraplacado cortado a laser de 5 mm).
-     * LEFT_SIDE (contraplacado cortado a laser de 5 mm).
-     * RIGHT_SIDE (contraplacado cortado a laser de 5 mm).
+     * FRENTE (compensado cortado a laser de 5 mm).
+     * TRASEIRA (compensado cortado a laser de 5 mm)
+     * BASE (compensado cortado a laser de 5 mm).
+     * LATERAL_ESQUERDA (compensado cortado a laser de 5 mm).
+     * LATERAL_DIREITA (compensado cortado a laser de 5 mm).
      * Cola de madeira.
-     * Fita do pintor.
+     * Fita para pintura ou fita crepe.
 
-* Prepare os 5 elementos: FACE, BACK, LEFT_SIDE, RIGHT_SIDE e BOTTOM.
+.. ATENÇÃO:: No Brasil nem sempre tem disponibilidade de compensado de 5mm. Também fornecemos arquivos para corte calibrados para material de 6mm
+
+* Prepare os 5 elementos: FRENTE, TRASEIRA, LATERAL_ESQUERDA, LATERAL_DIREITA e BASE.
 
 .. image :: ./IMG/BrailleRAP-V5.02.1.jpg
         :align: center
 
-* Cole os entalhes, monte as 5 peças e segure-as no lugar com fita adesiva pelo tempo de secagem recomendado pelo fabricante.
+* Cole os entalhes, monte as 5 peças e segure-as no lugar com fita  pelo tempo de secagem recomendado pelo fabricante. (24 hs deveria ser bom)
 
 .. image :: ./IMG/BrailleRAP-V5.01.jpg
         :align: center
         
 
-
-Colagem de bloqueadores de alçapão
+Colagem de travas da traseira
 -------------------------------
 
-Equipamento:
+Materiais:
 
     * Caixa de madeira montada.
     * 3 discos de madeira recuperados do corte a laser da tampa.
     * Cola de madeira.
 
-* Cole os 3 discos de madeira no painel traseiro dentro do corpo. Esses discos manterão a escotilha de acesso dentro da máquina.
+* Cole os 3 discos de madeira no painel traseiro do lado interior. Esses discos manterão a trava de acesso dentro da máquina.
 
 .. image :: ./IMG/BrailleRAP-V5.01.2.jpg
-       : align: center
+       :align: center
 
 
-Preparação da agulha masculina
+Preparação da agulha macho
 -----------------------------
 
 Material:
 
-    * 1 lima de metal ou lixa ou Dremel
-    * 1 parafuso sem cabeça M3-16 com extremidade do mamilo
+    * 1 lima de metal ou lixa ou torno tipo Dremel
+    * 1 parafuso grub/sem cabeça M3-12 com extremidade do grub (também pode cortar a cabeça de um parafuso M3-12 também)
 
-* Lime a crista do mamilo para obter um perfil próximo ao mostrado.
+* Lime a crista do grub para obter um perfil próximo ao mostrado.
 
 .. image :: ./IMG/BrailleRAP-V5.56.jpg
-       : align: center
+       :align: center
 
+.. ATENÇÃO:: Como regra geral, todos os parafusos encaixados em peças 3D não deve ser apertados excessivamente para não quebrar a peça. 
+Se o parafuso não consegue entrar facilmente, passar um vira-macho do diâmetro adequado
 
 Motor Y
 ---------
@@ -65,60 +68,60 @@ Material:
     * 1 motor Nema 17
     * 1 polia GT2 com 20 dentes com diâmetro de 5 mm
     * 4 parafusos M3-8
-    * 2 porcas NYL M3
+    * 2 porcas parlock M3
     * 2 parafusos M3-12
     * 2 arruelas M3 grandes
 
-* Aparafuse a polia no eixo do motor certificando-se de que pelo menos um dos dois parafusos esteja voltado para a parte plana do eixo do motor e que os dentes da polia estejam voltados para o motor.
+* Parafuse a polia no eixo do motor certificando-se de que pelo menos um dos dois parafusos esteja voltado para a parte plana do eixo do motor e que os dentes da polia estejam voltados para o motor.
 
 .. image :: ./IMG/BrailleRAP-V5.03.jpg
-       : align: center
+       :align: center
 
 * Monte o motor em seu suporte utilizando os 4 parafusos M3-8, certificando-se de que o conector está na posição correspondente à ilustração.
 
 .. image :: ./IMG/BrailleRAP-V5.04.jpg
-       : align: center
+       :align: center
 
-.. CUIDADO :: A ilustração mostra um suporte de motor projetado para uma correia de 200 mm, mas o conjunto é o mesmo com um suporte de motor projetado para uma correia de 220 mm.
+.. ATENÇÃO:: A ilustração mostra um suporte de motor projetado para uma correia de 200 mm, mas o conjunto é o mesmo com um suporte de motor projetado para uma correia de 220 mm.
 
-* Insira as porcas NYL M3 no suporte do motor.
+* Insira as porcas parlock M3 no suporte do motor.
 
 .. image :: ./IMG/BrailleRAP-V5.05.jpg
-       : align: center
+       :align: center
 
-* Insira os parafusos e arruelas pelo lado de fora e aparafuse o suporte no corpo de forma que ainda possa deslizar nos orifícios oblongos.
+* Insira os parafusos e arruelas pelo lado de fora e parafuse o suporte no corpo de forma que ainda possa ser deslizado para ajuste nos furos.
 
 .. image :: ./IMG/BrailleRAP-V5.06.1.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.07.1.jpg
-       : align: center
+       :align: center
 
-Preparação de suportes de eixo
+Preparação de suportes de eixos
 --------------------------------
 
   * ** Parte (s) impressa (s) em 3D **: BOTTOM_AXIS_left
   * ** Parte (s) impressa (s) em 3D **: BOTTOM_AXIS_right
   * ** Parte (s) impressa (s) em 3D **: TOP_AXIS_left
   * ** Parte (s) impressa (s) em 3D **: TOP_AXIS_right
-  * 1 broca de 8 mm
-  * 8 porcas M3
-  * 8 parafusos M3-12
+  * 1 broca de 8 mm (caso necessário)
+  * 8 porcas  M3
+  * 8 parafusos sem cabeça/grub M3-12
 
-.. CUIDADO :: Dependendo da qualidade de impressão das peças plásticas, certifique-se de que as barras de 8 mm possam deslizar facilmente em seus slots. Se necessário, faça o furo com uma broca 8.
+.. ATENÇÃO:: Dependendo da qualidade de impressão das peças plásticas, certifique-se de que as barras de 8 mm possam deslizar facilmente em suas buracos. Se necessário, faça o furo com uma broca 8.
 
-* Para cada uma das 4 peças, insira uma porca M3 nos orifícios retangulares. Aperte os parafusos M3-12.
+* Para cada uma das 4 peças, insira uma porca M3 nos furos retangulares. Aperte os grubs M3-12.
 
 .. image :: ./IMG/BrailleRAP-V5.09.1.jpg
-       : align: center
+       :align: center
 
-* A extremidade do parafuso não deve se projetar para a passagem das barras de Ø 8 mm.
+* A extremidade do parafuso não deve se projetar para a passagem dos eixos  de Ø 8 mm.
 
 .. image :: ./IMG/BrailleRAP-V5.10.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.11.jpg
-       : align: center
+       :align: center
 
 Fixando os suportes do eixo ESQUERDO
 ----------------------------------------------
@@ -130,36 +133,34 @@ Material:
 
   * 4 parafusos BTR M3-14
   * 4 arruelas M3 grandes
-  * 4 porcas NYL M3
+  * 4 porcas parlock M3
 
-* Fixe os apoios do eixo na carroceria, BOTTOM_AXIS_left e TOP_AXIS_left à esquerda, deixando uma pequena folga (parafuso + arruela na parte externa e porca na parte interna). Os parafusos estarão apertados quando a montagem estiver no lugar.
+* Fixe os apoios do eixo no chassis, BOTTOM_AXIS_esquerda e TOP_AXIS_esquerda à esquerda, deixando uma pequena folga (parafuso + arruela na parte externa e porca na parte interna). Os parafusos estarão apertados quando a montagem estiver no lugar.
 
 .. image :: ./IMG/BrailleRAP-V5.12.1.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.12.2.jpg
-       : align: center
+       :align: center
 
 Fixando os suportes DIREITOS dos eixos
 -------------------------------------
 
 Material:
 
-
-
   * ** Parte (s) impressa (s) em 3D **: BOTTOM_AXIS_right
   * ** Parte (s) impressa (s) em 3D **: TOP_AXIS_right preparado com porca e parafuso sem cabeça (ver Preparação de suportes de eixo)
   * 4 parafusos BTR M3-14
   * 4 arruelas M3 grandes
-  * 4 porcas NYL M3
+  * 4 porcas parlock M3
 
 * Fixe os apoios do eixo no corpo do BOTTOM_AXIS_right (preste atenção na posição da marca) e TOP_AXIS_right à direita, deixando uma pequena folga (parafuso + arruela na parte externa e porca na parte interna). Os parafusos estarão apertados quando a montagem estiver no lugar.
 
 .. image :: ./IMG/BrailleRAP-V5.12.3.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.12.4.jpg
-       : align: center
+       :align: center
 
 Colocando os tensores da correia
 ----------------------------------------------
@@ -169,197 +170,12 @@ Material:
   * ** Parte (s) impressa (s) em 3D **: 2 x DRIVEN_PULLEY_housing
   * 2 parafusos BTR M3-20
   * 2 arruelas M3 grandes
-  * 2 porcas NYL M3
+  * 2 porcas parlock M3
 
 
 * Insira uma porca NYL M3 em sua carcaça e fixe a carcaça DRIVEN_PULLEY com um parafuso M3-20 e uma arruela.
 
 .. image :: ./IMG/BrailleRAP-V5.44.jpg
-       : align: center
-
-.. image :: ./IMG/BrailleRAP-V5.13.3.jpg
-       : align: center
-
-.. image :: ./IMG/BrailleRAP-V5.13.5.jpg
-       : align: center
-       
-       
-
-Manuel de montage BrailleRAP-SP
-===============================
-
-
-Collage de la caisse en bois
------------------------------
-
-Matériel:
-
-    * FACE (contre-plaqué de 5mm découpé au laser).
-    * BACK (contre-plaqué de 5mm découpé au laser).
-    * BOTTOM (contre-plaqué de 5mm découpé au laser).
-    * LEFT_SIDE (contre-plaqué de 5mm découpé au laser).
-    * RIGHT_SIDE (contre-plaqué de 5mm découpé au laser).
-    * Colle à bois.
-    * Scotch de peintre.
-
-* Préparer le 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM.
-
-.. image :: ./IMG/BrailleRAP-V5.02.1.jpg
-       :align: center
-
-* Encoller les encoches, assembler les 5 parties et les maintenir en place avec du scotch de peintre le temps du séchage préconisé par le fabricant.
-
-.. image :: ./IMG/BrailleRAP-V5.01.jpg
-       :align: center
-
-Collage des bloqueurs de trappe
--------------------------------
-
-Matériel:
-
-    * Caisse bois assemblée.
-    * 3 disques en bois récupérés de la découpe laser du couvercle.
-    * Colle à bois.
-
-* Coller les 3 disques de bois sur la façade arrière à l'intérieur de la caisse. Ces disques maintiendront la trappe d'accès à l'intérieur de la machine.
-
-.. image :: ./IMG/BrailleRAP-V5.01.2.jpg
-       :align: center
-
-
-Préparation du pointeau mâle
------------------------------
-
-Matériel :
-
-    * 1 lime pour métaux ou de la toile émeri ou une Dremel
-    * 1 vis sans tête M3-16 bout téton
-
-* Limer l'arête du téton afin d’obtenir un profil approchant celui illustré.
-
-.. image :: ./IMG/BrailleRAP-V5.56.jpg
-       :align: center
-
-
-Moteur Y
----------
-
-Matériel :
-
-    * **Pièce(s) imprimée(s) en 3D** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon la longueur de la courroie fermée GT2)
-    * 1 moteur Nema 17
-    * 1 poulie GT2 20 dents bore 5mm
-    * 4 vis M3-8
-    * 2 écrous NYL M3
-    * 2 vis M3-12
-    * 2 rondelles M3 larges
-
-* Visser la poulie sur l’arbre du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat de l’axe du moteur et que les dents de la poulie soient orientées vers le moteur.
-
-.. image :: ./IMG/BrailleRAP-V5.03.jpg
-       :align: center
-
-* Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondante à l'illustration.
-
-.. image :: ./IMG/BrailleRAP-V5.04.jpg
-       :align: center
-
-.. ATTENTION:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
-
-* Introduire les écrous NYL M3 dans le support moteur.
-
-.. image :: ./IMG/BrailleRAP-V5.05.jpg
-       :align: center
-
-* Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs.
-
-.. image :: ./IMG/BrailleRAP-V5.06.1.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.07.1.jpg
-       :align: center
-
-Préparation de supports d’axes
---------------------------------
-
-  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_left
-  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_right
-  * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_left
-  * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right
-  * 1 foret de 8mm
-  * 8 écrous M3
-  * 8 vis M3-12
-
-.. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8.
-
-* Pour chacune des 4 pièces, introduire un écrou M3 dans les trous rectangulaires. Visser les vis M3-12.
-
-.. image :: ./IMG/BrailleRAP-V5.09.1.jpg
-       :align: center
-
-* L’extrémité de la vis ne doit pas dépasser dans le passage des barres de Ø 8mm.
-
-.. image :: ./IMG/BrailleRAP-V5.10.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.11.jpg
-       :align: center
-
-Fixation des supports GAUCHES des axes
-----------------------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
-  * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
-
-  * 4 vis BTR M3-14
-  * 4 rondelles M3 larges
-  * 4 écrous NYL M3
-
-* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left et TOP_AXIS_left à gauche en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
-
-.. image :: ./IMG/BrailleRAP-V5.12.1.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.12.2.jpg
-       :align: center
-
-Fixation des supports DROITS des axes
--------------------------------------
-
-Matériel :
-
-
-
-  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right
-  * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
-  * 4 vis BTR M3-14
-  * 4 rondelles M3 larges
-  * 4 écrous NYL M3
-
-* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right (attention à la position du repère) et TOP_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
-
-.. image :: ./IMG/BrailleRAP-V5.12.3.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.12.4.jpg
-       :align: center
-
-Fixation des tendeurs de courroie
-----------------------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing
-  * 2 vis BTR M3-20
-  * 2 rondelles M3 larges
-  * 2 écrous NYL M3
-
-
-* Insérer un écrou M3 NYL dans son logement et fixer les DRIVEN_PULLEY_housing avec une vis M3-20 et une rondelle.
-
-.. image :: ./IMG/BrailleRAP-V5.44.jpg
        :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.13.3.jpg
@@ -368,187 +184,191 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.13.5.jpg
        :align: center
 
-* Laisser un jeu de ±5mm.
+* Deixe uma folga de ± 5 mm.
 
 .. image :: ./IMG/BrailleRAP-V5.13.4.jpg
        :align: center
 
-Pose des poulies libres de renvoi
+Instalação de polias livres
 ----------------------------------------------
 
-Matériel :
+Material:
 
-  * 2 poulies libres 20 dents bore 3mm
-  * 2 vis BTR M3-25
-  * 2 écrous NYL M3
+  * 2 polias livres com 20 dentes com diâmetro de 3 mm
+  * 2 parafusos allen M3-25
+  * 2 porcas parlock M3
 
 
-* Commencer par insérer la poulie puis la vis M3-25. Visser avec un écrou M3 NYL sans trop serrer.
+* Comece inserindo a polia e depois o parafuso M3-25. Parafuse com uma porca M3 parlock sem apertar demais.
 
 .. image :: ./IMG/BrailleRAP-V5.13.6.jpg
        :align: center
 
-Montage de l'interrupteur de fin de course X
+Montagem do Fim de Curso X
 ---------------------------------------------
 
-Matériel :
+Material:
 
-  * **Pièce(s) imprimée(s) en 3D** : SWITCH_X_support
-  * 1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)
-  * 1 vis sans tête M3-8
-  * 1 écrou M3
-  * 2 vis M2.5-14 **Michel, on t'a mis des M2.5-14 ;)**
-  * 2 écrous M2.5
+  * ** Parte (s) impressa (s) em 3D **: SWITCH_X_support
+  * 1 módulo fim de curso
+  * 1 parafuso sem cabeça/grub M3-8
+  * 1 porca M3
+  * 2 parafusos M3-8
+  * 2 porcas parlock M3
+   * 1 abraçadeira do tipo “enforca gato”
 
-.. Note:: Changer l'image avec support interrupteur (nouveau modèle).
+.. Nota :: Mude a imagem com suporte a switch (novo modelo).
 
-* Introduire un écrou M3 et visser une vis sans tête M3-8.
+* Insira uma porca M3 e aperte um parafuso sem cabeça M3-8.
 
 .. image :: ./IMG/BrailleRAP-V5.57.jpg
        :align: center
 
-* Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-12 et des écrous M2.5.
+* Parafuse o módulo fim de curso em seu suporte (SWITCH_X_support) usando parafusos M3, porcas parlock M3 e a abraçadeira.
 
-.. Note:: L'interrupteur fin de course est représenté non câblé mais il devra être câblé avant le montage.
+.. Nota :: O interruptor de limite é mostrado sem fiação, esta deve ser adicionada após a montagem
 
 .. image :: ./IMG/BrailleRAP-V5.58.jpg
        :align: center
 
-Préparation de l’électro-aimant
+Preparação do solenóide
 --------------------------------
 
-Matériel :
+Material:
 
-  * 1 électro-aimant
-  * 1 entretoise de 18mm
-  * 1 vis sans tête M3-12 pointeau limée (cf Préparation du pointeau mâle)
-  * 1 écrou M3
-  * 1 rondelle M3 moyenne
+  * ** Parte (s) impressa (s) em 3D **: ADAPTADOR M4-M3
+  * 1 solenóide
+  * 1 agulha lima de parafuso sem cabeça M3-12 (ver Preparação da agulha macho)
+  * 1 porca M3
+  * 1 arruela M3 média
+  * 1 Vira macho com roscas M3 e M4
 
-* Visser l’entretoise à fond sur l’électro-aimant.
+ * Utilize o vira macho para abrir a rosca no adaptador em ambos os lados
+
+* Parafuse o adaptador firmemente no solenóide 
 
 .. image :: ./IMG/BrailleRAP-V5.16.jpg
        :align: center
 
-* Visser la vis M3-12 pointeau limée en la laissant dépasser de ± 6mm de l’entretoise.
+* Aperte o parafuso de agulha M3-12 limado
 
 .. image :: ./IMG/BrailleRAP-V5.17.jpg
        :align: center
 
-Montage du chariot bas (étape 1)
+Montagem do carro inferior (etapa 1)
 ---------------------------------
 
-Matériel :
+Material:
 
-  * Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)
-  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley
-  * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing
-  * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide
-  * **Pièce(s) imprimée(s) en 3D** : 3 X IGUS_housing
-  * 2 vis M3-8
-  * 3 IGUS
-  * 6 vis M3-12
-  * 10 écrous M3 NYL
-  * 2 vis M3-18
-  * 2 vis M3-20
+  * Conjunto solenóide pré-montado (consulte Preparação do solenóide)
+  * ** Parte (s) impressa (s) em 3D **: BOTTOM_trolley
+  * ** Parte (s) impressa (s) em 3D **: ELECTRO_MAGNET_housing
+  * ** Parte (s) impressa (s) em 3D **: ELECTRO_MAGNET_guide
+  * ** Parte (s) impressa (s) em 3D **: 3 X IGUS_housing
+  * 2 parafusos M3-8
+  * 3 rolamentos lineares LM8UU
+  * 6 parafusos M3-12
+  * 10 porcas parlock M3
+  * 2 parafusos M3-18
+  * 2 parafusos M3-20
 
 
-* Fixer l’électro-aimant sur son support avec les 2 vis M3-8.
+* Fixe o solenóide em seu suporte com os 2 parafusos M3-8.
 
-.. ATTENTION:: Respecter le côté de sortie des fils.
+.. ATENÇÃO: Respeite o lado de saída dos fios.
 
 .. image :: ./IMG/BrailleRAP-V5.19.jpg
        :align: center
 
-* Introduire les 3 IGUS dans leur logement (IGUS_housing).
+* Coloque os 3 rolamentos em seus cases (IGUS_housing).
 
-.. ATTENTION:: Respecter le côté du rainurage.
+.. ATENÇÃO:: Respeite a lateral da fenda
 
 .. image :: ./IMG/BrailleRAP-V5.14.1.jpg
        :align: center
 
-* Assembler les 3 logements + IGUS + BOTTOM_trolley avec les 6 vis M3-12 et les 6 écrous M3 NYL.
+* Monte as 3 carcaças + IGUS + BOTTOM_trolley com os 6 parafusos M3-12 e as 6 porcas parlock M3.
 
-.. ATTENTION:: Ne pas serrer les vis à fond. Elles seront serrées quand le chariot sera en place sur ses rails de guidage.
+.. ATENÇÃO :: Não aperte os parafusos completamente. Eles ficarão firmes quando o carro estiver no lugar nos trilhos de guia.
 
 .. image :: ./IMG/BrailleRAP-V5.14.2.jpg
        :align: center
 
-* Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-18 et 2 écrous M3 NYL.
+* Monte o solenóide (previamente montado em seu case) sob o BOTTOM_trolley e o ELECTRO_MAGNET_guide com os dois parafusos M3-18 e 2 porcas parlock M3.
 
-.. ATTENTION:: Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise.
+.. ATENÇÃO:: Dependendo da qualidade da impressão, pode ser necessário limar a caixa do espaçador.
 
 .. image :: ./IMG/BrailleRAP-V5.14.3.jpg
        :align: center
 
-* Visser les deux vis M3-20 (qui retiendront la courroie) et 2 écrous M3 NYL avec la tête de vis en dessous.
+* Parafuse os dois parafusos M3-20 (que prendem a correia) e 2 porcas parlock M3 com a cabeça do parafuso abaixo.
 
 .. image :: ./IMG/BrailleRAP-V5.14.4.jpg
        :align: center
 
-* Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle empêche le contre écrou de se coincer dans le guide de l’entretoise.
+* Coloque uma arruela e aperte a contraporca M3, certificando-se de que o parafuso da agulha  se parafuse no adaptador ao mesmo tempo. A arruela evita que a contraporca fique presa no guide do adaptador
 
 .. image :: ./IMG/BrailleRAP-V5.14.5.jpg
        :align: center
 
 
-Montage du chariot bas (étape 2)
+Montagem do carro inferior (etapa 2)
 ---------------------------------
 
-Matériel :
+Material:
 
-  * 2 barres lisses Ø8mm, longueur : 330mm
+  * 2 eixos Ø8mm, comprimento: 330mm
 
-.. NOTE:: Nous n'avons pas représenté la façade pour des raisons de lisibilité.
+.. NOTA :: Não mostramos a fachada por motivos de facilitação da instrução de montagem
 
-* Enfiler les barres à mi-course par l’extérieur de la caisse.
+* Passe os eixos na metade da parte externa do corpo.
 
 .. image :: ./IMG/BrailleRAP-V5.51.1.jpg
        :align: center
 
-* Enfiler le fin de course et son support sur la barre Ø8mm côté face arrière.
+*  Passe o suporte  fim de curso pelo eixo mais próximo a parte traseira do chassi
 
 .. image :: ./IMG/BrailleRAP-V5.51.2.jpg
        :align: center
 
-.. NOTE:: La vis du support de l'interrupteur sera serrée plus tard lors du réglage.
+.. NOTA :: O parafuso do suporte do fim de curso será apertado posteriormente durante o ajuste.
 
-* Enfiler le chariot bas sur les barres lisses.
+* Passe o carro inferior pelos eixos lisos.
 
 .. image :: ./IMG/BrailleRAP-V5.51.3.jpg
        :align: center
 
-* Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse).
-* Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche et 2 sur le côté droit) et les 4 vis sans tête des supports des axes suffisamment pour que les axes ne coulissent dans leurs logements.
+* Termine de enfiar os eixos (os eixos não devem sobressair na madeira da caixa).
+* Aperte os 4 parafusos do suporte do eixo no corpo (2 no lado esquerdo e 2 no lado direito) e os 4 parafusos sem cabeça no suporte do eixo o suficiente para que os eixos não deslizem em seus lugares
 
 .. image :: ./IMG/BrailleRAP-V5.51.4.jpg
        :align: center
 
-* Serrer les 6 vis des IGUS_housing petit à petit en s'assurant que le chariot coulisse bien sur les axes.
+* Aperte os 6 parafusos da carcaça IGUS aos poucos, certificando-se de que o carro deslize bem nos eixos.
 
 .. image :: ./IMG/BrailleRAP-V5.51.6.jpg
        :align: center
 
-Montage de l’axe vertical (étape 1)
+Montagem do eixo vertical (etapa 1)
 ------------------------------------
 
-Matériel :
+Material:
 
-  * **Pièce(s) imprimée(s) en 3D** : XMOTOR_support
-  * 1 moteur NEMA 17
-  * 4 vis M3-8
-  * 2 vis M3-16
-  * 2 écrous M3 NYL
-  * 4 rondelles M3 grandes
+  * ** Parte (s) impressa (s) em 3D **: XMOTOR_support
+  * 1 motor NEMA 17
+  * 4 parafusos M3-8
+  * 2 parafusos M3-16
+  * 2 porcas parlock M3
+  * 4 arruelas M3 grandes
 
-* Visser le moteur sur son support en laissant un peu de jeu et en respectant la position du connecteur.
+* Parafuse o motor no suporte, deixando uma pequena folga e respeitando a posição do conector.
 
-.. Note:: Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical.
+.. Nota :: A folga alinhará então o eixo do motor com o eixo vertical.
 
 .. image :: ./IMG/BrailleRAP-V5.31.jpg
        :align: center
 
-* Visser l’ensemble moteur/support sur la caisse avec les 2 vis M3-16 en laissant du jeu.
+* Parafuse o conjunto motor / suporte no corpo com os 2 parafusos M3-16, deixando alguma folga.
 
 .. image :: ./IMG/BrailleRAP-V5.32.1.jpg
        :align: center
@@ -556,28 +376,27 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.33.1.jpg
        :align: center
 
-Montage de l’axe vertical (étape 2)
+Montagem do eixo vertical (etapa 2)
 ------------------------------------
 
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : 2 X KP08_support
+Material:
+ * Peças em 3D 2x KP08_support
   * 2 KP08
-  * 4 vis M5-25
-  * 4 rondelles M5
-  * 4 écrous M5 NYL
+  * 4 parafusos M5-25
+  * 4 arruelas M5
+  * 4 porcas parlock M5
 
-.. NOTE:: Avant de fixer les KP08, s'assurer que les roulements sont bien alignés dans leurs logements. Il se peut qu'ils soient livrés un peu désaxés. Dans ce cas, introduire une barre Ø 8mm et l'actionner manuellement afin de les redresser.
+.. NOTA :: Antes de fixar os KP08s, certifique-se de que os mancais estejam devidamente alinhados em seus alojamentos. Eles podem ser entregues um pouco fora do centro. Neste caso, insira um eixo de Ø 8mm e acione manualmente para endireitá-las.
 
 .. image :: ./IMG/BrailleRAP-V5.40.jpg
        :align: center
 
-* Visser les KP08_support et les KP08 sur la caisse en laissant un peu de jeu avec les vis M5-25, les rondelles M5 et les écrous M5 NYL.
+* Parafuse o KP08 no corpo, deixando um pouco de folga com os parafusos M5-25, as arruelas M5 e as porcas parlock M5..
 
 .. image :: ./IMG/BrailleRAP-V5.34.1.jpg
        :align: center
 
-* Respecter la position des bagues de serrage des KP08.
+* Respeite a posição dos anéis de fixação KP08.
 
 .. image :: ./IMG/BrailleRAP-V5.36.1.jpg
        :align: center
@@ -585,560 +404,528 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.35.1.jpg
        :align: center
 
-Montage de l’axe vertical (étape 3)
+Montagem do eixo vertical (etapa 3)
 ------------------------------------
 
-Matériel :
+Material:
 
-  * 1 barre lisse Ø 8mm, longueur : 100mm
-  * 1 Coupleur 5*8mm
+  * 1 eixo Ø 8mm, comprimento: 100mm
+  * 1 Acoplador 5 * 8 mm
 
-* Enfiler le coupleur sur l’arbre du moteur (trou Ø 5mm en bas).
+* Rosqueie o acoplador no eixo do motor (furo de Ø 5 mm na parte inferior).
 
 .. image :: ./IMG/BrailleRAP-V5.59.jpg
        :align: center
 
-* Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans le coupleur.
+* Passe o eixo de 100 mm do topo através do KP08s e no acoplador.
 
 .. image :: ./IMG/BrailleRAP-V5.60.1.jpg
        :align: center
 
-* Faire tourner l’axe à la main pour s’assurer que tous les éléments sont bien alignés et que l'axe continue à tourner librement.
+* Gire o conjunto manualmente para se certificar de que todas as peças estão devidamente alinhadas e que o fuso continua a girar livremente.
 
 .. image :: ./IMG/BrailleRAP-V5.60.2.jpg
        :align: center
 
-* Les trous du support moteur sont oblongs et permettent d'aligner le moteur avec l'axe vertical dans les 2 dimensions.
-* Visser les 2 premières vis du moteur sur son support.
+* Os furos no suporte do motor são deslizantes e permitem que o motor seja alinhado com o eixo vertical em 2 dimensões.
+* Parafuse os 2 primeiros parafusos do motor em seu suporte.
 
 .. image :: ./IMG/BrailleRAP-V5.61.jpg
        :align: center
 
-* Visser petit à petit les vis des KP08 en faisant tourner l’axe à la main.
-* Visser petit à petit les vis du support moteur sur la caisse en faisant tourner l’axe à la main. **AJOUTER IMAGE**
-* Retirer l’axe et terminer de visser les 2 dernières vis du moteur sur son support, puis le support sur la caisse.
+* Aperte gradualmente os parafusos do KP08s girando o eixo manualmente.
+* Aperte lentamente os parafusos do suporte do motor no corpo girando o eixo com a mão. 
+* Retire o eixo e finalize parafusando os 2 últimos parafusos do motor no seu suporte, depois o suporte no corpo.
 
 
-Montage de l’axe vertical (étape 4)
+Montagem do eixo vertical (etapa 4)
 ------------------------------------
 
-Matériel :
+Material:
 
-  * 2 poulies GT2 20 dents bore 8mm
+  * 2 polias GT2 20 dentes com furo de 8 mm
 
-* Visser les 2 vis en bas du coupleur sur l’arbre du moteur en s’assurant qu’une des vis est en face du méplat de l’axe du moteur et que le bas du coupleur ne repose pas sur le moteur.
+* Parafuse os 2 parafusos da parte inferior do acoplador no eixo do motor, certificando-se de que um dos parafusos esteja voltado para a parte plana do eixo do motor e que a parte inferior do acoplador não esteja apoiada no motor.
 
 .. image :: ./IMG/BrailleRAP-V5.62.jpg
        :align: center
 
-* Enfiler l’axe de 100mm dans les KP08, les poulies (en respectant leurs positions) et le coupleur.
+* Passe o eixo de 100 mm através dos KP08s, das polias (respeitando suas posições) e do acoplador.
 
 .. image :: ./IMG/BrailleRAP-V5.63.jpg
        :align: center
 
-* Visser les 2 vis en haut du coupleur sur l’axe vertical.
+* Parafuse os 2 parafusos na parte superior do acoplador no eixo vertical.
 
 .. image :: ./IMG/BrailleRAP-V5.64.jpg
        :align: center
 
-* Laisser les poulies libres sans les visser sur l'axe. Elles seront vissées quand la courroie sera en place.
-* Visser les vis des bagues de serrage des KP08 (2 vis par bague).
+* Deixe as polias livres sem enroscá-las no eixo. Eles serão parafusados ​​quando a correia estiver no lugar.
+* Aperte os grubs dos anéis de fixação KP08 (2 parafusos por anel).
 
 .. image :: ./IMG/BrailleRAP-V5.65.jpg
        :align: center
 
-* S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support sur la caisse pour leur donner du jeu et refaire l’alignement.
 
-Montage de la courroie du chariot bas
+* Certifique-se de que o eixo gira facilmente e que o motor não balança. Se necessário, afrouxe os parafusos do motor e o suporte no corpo para dar folga e refazer o alinhamento.
+
+Ajustando a correia de transporte do carro inferior
 --------------------------------------
 
-Matériel :
+Material:
 
-  * 1 courroie GT2 longueur ± 620mm
-  * 2 colliers
+  * 1 correia GT2 ± 620 mm
+  * 2 abraçadeiras do tipo “enforca gato”
 
-* A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur. **AJOUTER IMAGE**
-* Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical.
-* Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier. **AJOUTER IMAGE**
-* Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse. **AJOUTER IMAGE**
+* Usando uma braçadeira, amarre a coreia ao redor do parafuso do carro com os dentes do lado de fora. ** ADICIONAR IMAGEM **
+* Passe a correia pela polia livre e depois pela polia do eixo vertical.
+* Estique a correia segurando o carro e fixe a segunda extremidade da correia em seu parafuso com uma braçadeira. ** ADICIONAR IMAGEM **
+* Finalize o tensionamento da correia com o parafuso na parte externa do chassi ** ADICIONAR IMAGEM **
 
-.. Note:: Pour l'instant, ne pas serrer les vis de la poulie sur l'axe.
+.. Nota: Por enquanto, não aperte os parafusos da polia no eixo.
 
 .. image :: ./IMG/BrailleRAP-V5.66.jpg
-       :align: center
+       : align: center
 
-Montage de l’axe Y (étape 1)
+Montagem do eixo Y (etapa 1)
 -----------------------------
 
-Matériel :
+Material:
 
-  * **Pièce(s) imprimée(s) en 3D** : 2 x ROLL_joint
-  * 1 taraud M3
-  * 2 joints toriques
-  * 2 vis M3-6 sans tête bout pointeau
+  * ** Parte (s) impressa (s) em 3D **: 2 x ROLL_joint
+  * 1 torneira M3 
+  * 2 O-rings/Anéis de Vedação (externo 20mm e espessura de 2,4mm)
+  * 2 parafusos sem cabeça/grub M3-6 com ponta de agulha
   * 2 KFL8
-  * 4 vis M5-18
-  * 4 écrous M5 NYL
-  * 4 rondelles M5
-  * 1 poulie GT2 20 dents bore 8mm
-  * 1 barre lisse Ø 8mm, longueur : 364mm
-  * 1 courroie GT2 fermée 200 ou 220 mm (selon le support moteur Y )
+  * 4 parafusos M5-18
+  * 4 porcas parlock M5
+  * 4 arruelas M5
+  * 1 polia GT2 com 20 dentes com diâmetro de 8 mm
+  * 1 eixo Ø 8mm, comprimento: 364mm
+  * 1 correia GT2 fechada 200 ou 220 mm (dependendo do suporte do motor Y)
 
-* Fixer les KFL8 à gauche sur la caisse avec 2 vis M5-18, 2 rondelles M5 et 2 écrous M5 NYL.
+* Fixe os KFL8s à esquerda no chassi com 2 parafusos M5-18, 2 arruelas M5 e 2 porcas parlock M5.
 
 .. image :: ./IMG/BrailleRAP-V5.67.jpg
-       :align: center
+       : align: center
 
 .. image :: ./IMG/BrailleRAP-V5.68.jpg
-       :align: center
+       : align: center
 
-* Fixer les KFL8 à droite sur la caisse avec les KFL8_support, 2 vis M5-18, 2 rondelles M5 et les 2 écrous M5 NYL.
+* Prenda os KFL8s à direita no chassi com 2 parafusos M5-18, 2 arruelas M5 e 2 porcas parlock M5.
 
 .. image :: ./IMG/BrailleRAP-V5.69.jpg
-       :align: center
+       : align: center
 
 .. image :: ./IMG/BrailleRAP-V5.70.jpg
-       :align: center
+       : align: center
 
-* Tarauder les 2 ROLL_joint.
+Abrindo a rosca com vira macho nos  2 ROLL_joint.
 
 .. image :: ./IMG/BrailleRAP-V5.41.jpg
-       :align: center
+       : align: center
 
-* Mettre les joints toriques dans la gorge des 2 ROLL_joint.
+* Coloque os O ring/ anéis de vedação  na fenda dos  2 ROLL_joint.
 
 .. image :: ./IMG/BrailleRAP-V5.42.jpg
-       :align: center
+       : align: center
 
-* Visser les vis M3-5 sans tête en s'assurant qu'elles ne dépassent pas à l'intérieur du trou.
+* Parafuse os parafusos sem cabeça M3-5, certificando-se de que não fiquem para dentro do furo do eixo
 
 .. image :: ./IMG/BrailleRAP-V5.43.jpg
-       :align: center
+       : align: center
 
-* Enfiler la barre lisse à mi course par le côté gauche à travers la caisse et le KFL8.
-* Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 2 ROLL_joint (attention à la position du joint torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe.
+* Passe  o eixo até a metade do lado esquerdo do corpo e do KFL8.
+* Para isso, rosqueie a polia de diâmetro 8mm GT2 20 dentes, a correia fechada e as peças 2 ROLL JOINT (preste atenção à posição do O-ring). Coloque a correia fechada na polia do motor em Y e na polia do eixo.
 
 .. image :: ./IMG/BrailleRAP-V5.73.jpg
-       :align: center
+       : align: center
 
-* Enfoncer l’axe dans le KFL8 de droite et le faire traverser pour qu’il dépasse de ±12mm de la caisse.
-
+* Insira o eixo no KFL8 direito e passe-o de modo que se extenda ± 12 mm do chassi em ambos os lados
 .. image :: ./IMG/BrailleRAP-V5.74.jpg
-       :align: center
+       : align: center
 
-* Serrer les vis des bagues des KFL8.
+* Aperte o grubs dos anéis KFL8.
 
 .. image :: ./IMG/BrailleRAP-V5.75.jpg
-       :align: center
+       : align: center
 
-Montage des molettes
+Montando os Scrolls
 -----------------------------
 
-Matériel :
+Material:
 
-  * **Pièce(s) imprimée(s) en 3D** : 2 x SCROLL_wheel
-  * 2 vis M3-8 sans tête **Michel, on t'a mis des M3-12 sans tête ;)**
-  * 2 écrous M3
+  * ** Parte (s) impressa (s) em 3D **: 2 x SCROLL_wheel
+  * 2 parafusos sem cabeça/grub M3-8
+  * 2 porcas M3
 
-* Introduire les écrous M3 dans leur logement et y visser les vis M3-8 sans tête.
+* Insira as porcas M3 em seu alojamento e parafuse os parafusos sem cabeça/grub M3-8.
 
 .. image :: ./IMG/BrailleRAP-V5.71.jpg
-       :align: center
+       : align: center
 
-* Fixer les molettes sur l'axe en vissant les vis M3-8 sans tête.
+* Fixe os scrolls no eixo apertando os parafusos sem cabeça M3-8.
 
 .. image :: ./IMG/BrailleRAP-V5.72.jpg
-       :align: center
+       : align: center
 
-Montage de l’axe Y (étape 2)
+Montagem do eixo Y (etapa 2)
 -----------------------------
 
-* Faire tourner à la main la poulie du moteur afin que la poulie de l’axe s’aligne verticalement avec la poulie du moteur.
+* Gire a polia do motor manualmente para que a polia do eixo se alinhe verticalmente com a polia do motor.
 
 .. image :: ./IMG/BrailleRAP-V5.76.jpg
-       :align: center
+       : align: center
 
 .. image :: ./IMG/BrailleRAP-V5.76.1.jpg
-       :align: center
+       : align: center
 
-* Déplacer l’ensemble moteur Y/support le long des trous oblongs sous la caisse afin de tendre la courroie fermée puis serrer les 2 vis.
+* Mova o conjunto de suporte / motor Y ao longo dos furos deslizaveis sob o chassi para apertar a correia fechada e, em seguida, aperte os 2 parafusos.
 
 .. image :: ./IMG/BrailleRAP-V5.77.jpg
-       :align: center
+       : align: center
 
-* Serrer les 2 vis de la poulie de l'axe.
+* Aperte os 2 parafusos da polia do eixo.
 
 .. image :: ./IMG/BrailleRAP-V5.78.jpg
-       :align: center
+       : align: center
 
-* Mettre en place la plaque en CP (sans la coller) afin d’aligner les ROLL_joint avec les trous présents dans la plaque. **AJOUTER IMAGE**
-* Quand les ROLL_joint sont bien en place, serrer les vis sans tête. **AJOUTER IMAGE**
-* Retirer la plaque de contre plaqué.
+* Posicione a placa CP (sem colar) de modo a alinhar a junta ROLL com os orifícios da placa. ** ADICIONAR IMAGEM **
+* Quando o ROLL_joint estiver no lugar, aperte os parafusos sem cabeça. ** ADICIONAR IMAGEM **
+* Remova a placa de madeira compensada.
 
-
-Montage du chariot haut (étape 1)
+Montagem do carro superior (etapa 1)
 ----------------------------------
 
-Matériel :
+Material:
 
-  * **Pièce(s) imprimée(s) en 3D** : TOP_trolley
-  * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape
-  * Taraud M3
+  * ** Parte (s) impressa (s) em 3D **: TOP_trolley
+  * ** Parte (s) impressa (s) em 3D **: NEW_FEMALE
 
-  * 1 vis sans tête M3-30
-  * 1 écrou borgne M3
 
-  * 2 vis M3-12
-  * 2 rondelles M3 moyennes
-  * 2 vis M3-20
-  * 4 écrous M3 NYL
+  * 1 parafuso sem cabeça/grub M3-12
+  * 1 porca com cabeça redonda M3
+ * 1 espaçador/extensor M3-10
+
+  * 2 parafusos M3-12
+  * 2 arruelas M3 médias
+  * 2 parafusos M3-20
+  * 4 porcas parlock M3
 
   * 3 IGUS_housing
-  * 6 vis M3-12
-  * 6 écrous M3 NYL
+  * 6 parafusos M3-12
+  * 6 porcas parlock M3
 
-* Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête du côté **SANS** emprunte allen.
+* Cole com super cola  a rosca da porca com cabeça redonda  e parafuse o parafuso sem cabeça/grub M3- 12 na ponta ** SEM ** sem o furo allen
 
 .. image :: ./IMG/BrailleRAP-V5.79.jpg
-       :align: center
+       : align: center
 
-* Tarauder la FEMALE_shape au 2/3 en partant du haut.
+* Use o vira macho na peça  FEMALE_shape em seu furo central
 
 .. image :: ./IMG/BrailleRAP-V5.80.jpg
-       :align: center
+       : align: center
 
-* Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser ± 0,5mm.
+* Parafuse o conjunto de parafuso / porca de cabeça redonda na peça female e adicione o espaçador/extensor no centro da peça para que o conjunto entre no espaçador/extensor
 
 .. image :: ./IMG/BrailleRAP-V5.81.jpg
-       :align: center
+       : align: center
 
-* Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-12, les rondelles M3 et les écrous M3 NYL en laissant du jeu.
+* Monte a FEMALE_shape no TOP_trolley com os parafusos M3-12, as arruelas M3 e as porcas parlock M3 , deixando alguma folga.
 
 .. image :: ./IMG/BrailleRAP-V5.82.jpg
-       :align: center
+       : align: center
 
 .. image :: ./IMG/BrailleRAP-V5.83.jpg
-       :align: center
+       : align: center
 
-* Positionner les IGUS dans les IGUS_housing en respectant le côté du blocage puis visser sur le chariot avec le M3-12 et les écrous M3 NYL.
+* Posicione o IGUS na carcaça IGUS, respeitando a fenda, a seguir parafuse o carro com as porcas parlock M3.
 
 .. image :: ./IMG/BrailleRAP-V5.88.jpg
-       :align: center
+       : align: center
 
 .. image :: ./IMG/BrailleRAP-V5.84.jpg
-       :align: center
+       : align: center
 
 .. image :: ./IMG/BrailleRAP-V5.85.jpg
-       :align: center
+       : align: center
 
-* Monter les vis M3-20 et les écrous M3.
+* Coloque os parafusos M3-20 e as porcas M3.
 
 .. image :: ./IMG/BrailleRAP-V5.87.jpg
-       :align: center
+       : align: center
 
 .. image :: ./IMG/BrailleRAP-V5.86.jpg
-       :align: center
+       : align: center
 
 
-Montage du chariot haut (étape 2)
+Montagem do carro superior (etapa 2)
 ----------------------------------
 
-Matériel :
+Material:
 
-  * 2 barres lisses Ø 8mm, longueur : 330mm
+  * 2 eixos Ø 8 mm, comprimento: 330 mm
 
-* Enfiler les barres à mi-course par l’extérieur de la caisse.
+* Passe os eixos  na metade da parte externa do chassi
 
 .. image :: ./IMG/BrailleRAP-V5.89.jpg
-       :align: center
+       : align: center
 
-* Enfiler le chariot bas sur les barres lisses.
+* Passe o carro superior nas barras lisas.
 
 .. image :: ./IMG/BrailleRAP-V5.90.jpg
-       :align: center
+       : align: center
 
-* Terminer d’enfiler les barres.
+* Termine de colocar as barras.
 
-.. Note:: La tranche du bois doit rester apparente.
+.. Nota :: Um espaçado na extremidade da madeira deve permanecer visível.
 
 .. image :: ./IMG/BrailleRAP-V5.91.jpg
-       :align: center
+       : align: center
 
-* Serrer les vis des supports d’axes sur la caisse à gauche et à droite.
+* Aperte os parafusos dos apoios do eixo no corpo à esquerda e à direita.
 
 .. image :: ./IMG/BrailleRAP-V5.92.jpg
-       :align: center
+       : align: center
 
-* Visser les vis sans tête des supports des axes à gauche et à droite.
+* Parafuse os parafusos sem cabeça dos suportes do eixo à esquerda e à direita.
 
 .. image :: ./IMG/BrailleRAP-V5.93.jpg
-       :align: center
+       : align: center
 
 
-Pose de la courroie du chariot haut
+Instalando a correia no carro superior
 --------------------------------------
 
-Montage des lève-papiers sur la plaque
+Material:
+
+  * 1 correia GT2 ± 620 mm
+  * 2 abraçadeiras do tipo “enforca gato”
+
+* Usando uma braçadeira, amarre a correia ao redor do parafuso do carro com os dentes do lado de fora. ** ADICIONAR IMAGEM **
+* Passe a correia pela polia livre e depois pela polia do eixo vertical.
+* Estique a correia segurando o carro e fixe a segunda extremidade da correia em seu parafuso com uma braçadeira. ** ADICIONAR IMAGEM **
+* Finalize o tensionamento da correia com o parafuso na parte externa do chassi ** ADICIONAR IMAGEM **
+
+.. Nota: Por enquanto, não aperte os parafusos da polia no eixo.
+
+.. image :: ./IMG/BrailleRAP-V5.66.jpg
+       : align: center
+
+
+Montagem do levantador de papel na placa
 ----------------------------------------
 
-Matériel :
+Material:
 
-  * PAPER_support (contre-plaqué de 5mm découpé au laser).
-  * **Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser
-  * 4 vis à bois 3-10 tête fraisée **Michel, on n'en avait plus ;(E**
+  * PAPER_support (contraplacado de 5 mm cortado a laser).
+  * ** Parte (s) impressa (s) em 3D **: 2 PAPER_raiser
+  * 4 parafusos para madeira 3-10 cabeça escareada ** Michel, não tínhamos mais; (E **
 
-* Visser les 2 PAPER_raiser sur la plaque par en dessous avec les vis à bois.
+* Aparafuse os 2 PAPER_raisers na placa por baixo com os parafusos de madeira.
 
 .. image :: ./IMG/BrailleRAP-V5.95.jpg
-       :align: center
+       : align: center
 
 
-Collage de la plaque repose papier
+Colagem da placa de suporte de papel
 -------------------------------------
 
-Matériel :
+Material:
 
-  * PAPER_support (contre-plaqué de 5mm découpé au laser).
-  * **Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser
+  * PAPER_support (contraplacado de 5 mm cortado a laser).
+  * ** Parte (s) impressa (s) em 3D **: 2 PAPER_raiser
 
-* Encoller les encoches qui vont être en contact. Introduire la plaque par l'avant et la maintenir fermement avec du ruban adhésif pendant le temps de séchage.
+* Cole os entalhes que ficarão em contato. Insira a placa pela frente e segure-a firmemente com fita adesiva durante o tempo de secagem.
 
 .. image :: ./IMG/BrailleRAP-V5.96.jpg
-       :align: center
+       : align: center
 
 .. image :: ./IMG/BrailleRAP-V5.97.jpg
-       :align: center
+       : align: center
 
 .. image :: ./IMG/BrailleRAP-V5.98.jpg
-       :align: center
+       : align: center
 
-Montage des guide-papiers sur la plaque
+
+
+Montagem dos guias de papel na placa
 ----------------------------------------
 
-Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left_1
-  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left_2
-  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right_1
-  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right_2
-  * 4 vis M3-16
-  * 4 écrous M3 NYL
+Material:
 
-.. NOTE:: Pour plus de clarté, nous avons isolé la partie concernée.
+  * ** Parte (s) impressa (s) em 3D **: PAPER_GUIDE_left_1
+ * ** Parte (s) impressa (s) em 3D **: PAPER_GUIDE_right_1
+  * 4 parafusos M3-16
+  * 4 porcas parlock M3
+
+.. NOTA :: Para maior clareza, isolamos a parte afetada.
 
 .. image :: ./IMG/BrailleRAP-V5.102.jpg
-       :align: center
+       : align: center
 
 .. image :: ./IMG/BrailleRAP-V5.101.jpg
-       :align: center
+       : align: center
 
-* Assembler les guide-papiers sur la plaque avec les vis M3-16 et les écrous M3 NYL.
+* Monte as guias de papel na placa com parafusos M3-16 e porcas parlockM3.
 
 
 .. image :: ./IMG/BrailleRAP-V5.99.jpg
-       :align: center
+       : align: center
 
-* Vous devez obtenir une vue du dessus comme celle ci :
+* Você deve obter uma vista superior como esta:
 
 
 .. image :: ./IMG/BrailleRAP-V5.100.jpg
-       :align: center
+       : align: center
 
 
-* Centrer les rouleaux dans les trous de la plaque et visser les vis sans tête jusqu'à ce que les rouleaux soient bien solidaires de l'axe.
+* Centralize os roletes nos orifícios da placa e aperte os parafusos sem cabeça até que os roletes estejam firmemente presos ao eixo.
 
 
 .. image :: ./IMG/BrailleRAP-V5.103.jpg
-       :align: center
+       : align: center
 
 
-Montage des presse-papiers (étape 1) :
+Montagem dos prendedores de papel (etapa 1):
 ----------------------------------------
 
-Matériel :
+Material:
 
-  * **Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD
-  * **Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD_wheel
-  * 2 vis M3-20
-  * 4 écrous M3 NYL
+  * ** Parte (s) impressa (s) em 3D **: 2 CLIPBOARD
+  * ** Parte (s) impressa (s) em 3D **: 2 CLIPBOARD_wheel
+  * 2 parafusos M3-20
+  * 4 nozes parlock M3
 
-
-* Assembler les CLIPBOARD avec CLIPBOARD_wheel à l'aide des vis M3-20 et des écrous M3 NYL. Serrer la vis en laissant la possibilité à la roue de tourner.
+* Monte os CLIPBOARDs com CLIPBOARD_wheel usando parafusos M3-20 e porcas parlock M3. Aperte o parafuso, permitindo que a roda gire.
 
 .. image :: ./IMG/BrailleRAP-V5.113.jpg
-       :align: center
+       : align: center
 
 
 .. image :: ./IMG/BrailleRAP-V5.114.jpg
-       :align: center
+       : align: center
 
-
-Montage des presse-papiers (étape 2) :
+Montagem dos prendedores de papel (etapa 2):
 ----------------------------------------
 
-Matériel :
+Material:
 
-  * 2 CLIPBOARD montés à l'étape 1
-  * 4 vis M3-14
-  * 4 rondelles M3 moyennes
-  * 4 écrous M3 NYL
+  * 2 CLIPBOARD montado na etapa 1
+  * 4 parafusos M3-14
+  * 4 arruelas M3 médias
+  * 4 porcas parlock M3
 
 
-.. NOTE:: Les trous oblongs dans les pièces imprimées permettent de régler la pression des CLIPBOARD sur le papier.
+.. NOTA :: Os furos deslizantes nas partes impressas permitem o ajuste da pressão do PRENDEDOR sobre o papel.
 
 
 .. image :: ./IMG/BrailleRAP-V5.104.jpg
-       :align: center
+       : align: center
 
 
 .. image :: ./IMG/BrailleRAP-V5.105.jpg
-       :align: center
+       : align: center
 
 
 
-Montage du fin de course Y 
-------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : SWITCH_Y_support
-  * 2 vis M3-14
-  * 2 rondelles M3 moyennes
-  * 2 écrous M3 NYL
-  * 1 interrupteur fin de course à lamelle
-  * 2 vis M2.5-14
-  * 2 écrous M2.5 NYL
-
-.. NOTE:: L'interrupteur fin de course à lamelle devra être câblé avant d'être monté sur son support (non représenté).
-
-
-* Assembler l'interrupteur fin de course et le SWITCH_Y_support à l'aide des vis M2.5-14 et des écrous M2.5 NYL.
-
-
-.. image :: ./IMG/BrailleRAP-V5.106.jpg
-       :align: center
-
-
-.. image :: ./IMG/BrailleRAP-V5.107.jpg
-       :align: center
-
-
-.. NOTE:: La position de l'interrupteur dans les trous oblongs sera réglée à la fin de l'assemblage et les vis serrées.
-
-
-* Assembler l'ensemble interrupteur fin de course et le SWITCH_Y_support sur la caisse à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL.
-
-
-.. image :: ./IMG/BrailleRAP-V5.108.jpg
-       :align: center
-
-
-.. image :: ./IMG/BrailleRAP-V5.109.jpg
-       :align: center
-
-
-Fixation des clips sur le couvercle
+Fixando os clipes na tampa
 --------------------------------------
 
-Matériel :
+Material:
 
-  * **Pièce(s) imprimée(s) en 3D** : 2 LID_LOCK
-  * 4 vis M3-14
-  * 4 écrous M3 NYL
+  * ** Parte (s) impressa (s) em 3D **: 2 LID_LOCK
+  * 4 parafusos M3-14
+  * 4 porcas parlock M3
 
-* Assembler les 2 LID_LOCK sur le couvercle à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL.
+* Monte os 2 LID_LOCK na tampa usando parafusos M3-14, arruelas M3 e porcas parlock M3 
 
 
 .. image :: ./IMG/BrailleRAP-V5.110.jpg
-       :align: center
+       : align: center
 
 
 
 .. image :: ./IMG/BrailleRAP-V5.111.jpg
-       :align: center
+       : align: center
 
 
 
-Fixation de la plaque pour l'embase de l'alimentation
--------------------------------------------------------
 
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : POWER_plate
-  * 4 vis M3-14
-  * 4 écrous M3 NYL
-
-*  **AJOUTER IMAGE**
-
-
-Montage de la carte électronique sur la caisse
+Montagem da placa eletrônica 
 -----------------------------------------------
 
-Matériel :
+Material:
 
-  * Carte MKS GEN 1.4
-  * 4 entretoises M3-10 **Michel, nous allons te les envoyer dès qu'on les reçoit**
-  * 4 rondelles M3 moyennes
-  * 8 vis M3-10
+  * Ramps e arduino mega
+  * Jumpers para fechar contato
+  * Drivers DRV2588
+  * 2 módulos fim de curso com cabos
+  * 2 cabos de motor nema 17
+  * LCD RepRap Full Graphic Controller com cabos 
+  * Fonte 12V 6A
+  * Cabos 3mm soltos vermelho e preto
+  * Solenóide 
+  * Diodo
+  * Ponta macho de tomada solta
+ 
 
-* Assembler les 4 entretoises sur la carte.  **AJOUTER IMAGE**
-* Assembler la carte sur la caisse.  **AJOUTER IMAGE**
+* Posicione 3 jumpers nos pinos indicados na posição de drivers X e Y
 
+ADICIONAR IMAGEM
 
+* Adicione os drivers como indicado
 
-
-Pose des drivers sur la carte électronique
--------------------------------------------
-
-Matériel :
-
-  * Carte MKS GEN 1.4
-  * 2 Drivers DRV8825
-  * 6 cavaliers
-
-* Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y. **AJOUTER IMAGE**
-* Enfoncer les drivers dans leurs emplacements.  **AJOUTER IMAGE**
+ADICIONAR IMAGEM
 
 
-Raccordement des moteurs à la carte
-------------------------------------
+* Posicione os módulos fim de curso como indicado
+ADICIONAR IMAGEM
 
-* à faire
+* Adicione os cabos de NEMA 17 e posicione eles na entrada dos motores
+ADICIONAR IMAGEM
 
-Câblage de l’électro-aimant
-----------------------------
+* Acople os cabos de LCD no Ramps e no LCD posteriormente
+ 
+ADICIONAR IMAGEM
 
-* à faire
+* Ligue os fios da fonte as entradas do Ramps
 
-Câblage des interrupteurs fin de course
-----------------------------------------
-
-* à faire
-
-
-Alignement vertical des deux chariots
---------------------------------------
-
-* à faire
+ADICIONAR IMAGEM
 
 
-* Serrer les poulies sur l’axe vertical. **AJOUTER IMAGE**
-
-Alignement horizontal de l'emprunte du chariot haut
-----------------------------------------------------
+* Ligar os fios da tomada a fonte
+ADICIONAR IMAGEM
 
 
-A ne pas oublier
+* Programar Arduino MEGA pela arduino IDE sem a ramps acoplada
 
-* Serrer la vis du endstop X
+ADICIONAR LINK DO CÒDIGO
+
+ADICIONAR PRINT DA TELA
+
+*Testar após carregamento do código se o LCD liga conforme o indicado na imagem:
+
+ADICIONAR IMAGEM
 
 
-Réglage de la profondeur du point
-----------------------------------------------------
+Ajustando alinhamento vertical dos carros
+-------------------------------------------------- -
 
-* Selon le matériau que vous utiliserez (papier, plastique, aluminium de canette), vous devrez régler la hauteur de l'emprunte du chariot haut à l'aide de l'écrou borgne **à développer avec des exemples**
+*Posicionar os carros de forma que a agulha consiga entrar no grub acima, para isso testar manualmente empurrando o solenóide para cima
 
+ADICIONAR IMAGEM (isa)
+
+Ajustando a profundidade do ponto braille
+-------------------------------------------------- -
+
+* Dependendo do material que você usará (papel, plástico, lata de alumínio), você precisará ajustar a altura da impressão do carro superior usando a porca de bolota 
 
 
 .. image :: ./IMG/BrailleRAP-V5.112.jpg
-       :align: center
+       : align: center
+
+
+
+
