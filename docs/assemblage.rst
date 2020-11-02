@@ -485,7 +485,7 @@ Material:
 .. Nota: Por enquanto, não aperte os parafusos da polia no eixo.
 
 .. image :: ./IMG/BrailleRAP-V5.66.jpg
-       : align: center
+       :align: center
 
 Montagem do eixo Y (etapa 1)
 -----------------------------
@@ -507,48 +507,48 @@ Material:
 * Fixe os KFL8s à esquerda no chassi com 2 parafusos M5-18, 2 arruelas M5 e 2 porcas parlock M5.
 
 .. image :: ./IMG/BrailleRAP-V5.67.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.68.jpg
-       : align: center
+       :align: center
 
 * Prenda os KFL8s à direita no chassi com 2 parafusos M5-18, 2 arruelas M5 e 2 porcas parlock M5.
 
 .. image :: ./IMG/BrailleRAP-V5.69.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.70.jpg
-       : align: center
+       :align: center
 
 Abrindo a rosca com vira macho nos  2 ROLL_joint.
 
 .. image :: ./IMG/BrailleRAP-V5.41.jpg
-       : align: center
+       :align: center
 
 * Coloque os O ring/ anéis de vedação  na fenda dos  2 ROLL_joint.
 
 .. image :: ./IMG/BrailleRAP-V5.42.jpg
-       : align: center
+       :align: center
 
 * Parafuse os parafusos sem cabeça M3-5, certificando-se de que não fiquem para dentro do furo do eixo
 
 .. image :: ./IMG/BrailleRAP-V5.43.jpg
-       : align: center
+       :align: center
 
 * Passe  o eixo até a metade do lado esquerdo do corpo e do KFL8.
 * Para isso, rosqueie a polia de diâmetro 8mm GT2 20 dentes, a correia fechada e as peças 2 ROLL JOINT (preste atenção à posição do O-ring). Coloque a correia fechada na polia do motor em Y e na polia do eixo.
 
 .. image :: ./IMG/BrailleRAP-V5.73.jpg
-       : align: center
+       :align: center
 
 * Insira o eixo no KFL8 direito e passe-o de modo que se extenda ± 12 mm do chassi em ambos os lados
 .. image :: ./IMG/BrailleRAP-V5.74.jpg
-       : align: center
+       :align: center
 
 * Aperte o grubs dos anéis KFL8.
 
 .. image :: ./IMG/BrailleRAP-V5.75.jpg
-       : align: center
+       :align: center
 
 Montando os Scrolls
 -----------------------------
@@ -562,12 +562,12 @@ Material:
 * Insira as porcas M3 em seu alojamento e parafuse os parafusos sem cabeça/grub M3-8.
 
 .. image :: ./IMG/BrailleRAP-V5.71.jpg
-       : align: center
+       :align: center
 
 * Fixe os scrolls no eixo apertando os parafusos sem cabeça M3-8.
 
 .. image :: ./IMG/BrailleRAP-V5.72.jpg
-       : align: center
+       :align: center
 
 Montagem do eixo Y (etapa 2)
 -----------------------------
@@ -575,20 +575,20 @@ Montagem do eixo Y (etapa 2)
 * Gire a polia do motor manualmente para que a polia do eixo se alinhe verticalmente com a polia do motor.
 
 .. image :: ./IMG/BrailleRAP-V5.76.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.76.1.jpg
-       : align: center
+       :align: center
 
 * Mova o conjunto de suporte / motor Y ao longo dos furos deslizaveis sob o chassi para apertar a correia fechada e, em seguida, aperte os 2 parafusos.
 
 .. image :: ./IMG/BrailleRAP-V5.77.jpg
-       : align: center
+       :align: center
 
 * Aperte os 2 parafusos da polia do eixo.
 
 .. image :: ./IMG/BrailleRAP-V5.78.jpg
-       : align: center
+       :align: center
 
 * Posicione a placa CP (sem colar) de modo a alinhar a junta ROLL com os orifícios da placa. ** ADICIONAR IMAGEM **
 * Quando o ROLL_joint estiver no lugar, aperte os parafusos sem cabeça. ** ADICIONAR IMAGEM **
@@ -619,44 +619,44 @@ Material:
 * Cole com super cola  a rosca da porca com cabeça redonda  e parafuse o parafuso sem cabeça/grub M3- 12 na ponta ** SEM ** sem o furo allen
 
 .. image :: ./IMG/BrailleRAP-V5.79.jpg
-       : align: center
+       :align: center
 
 * Use o vira macho na peça  FEMALE_shape em seu furo central
 
 .. image :: ./IMG/BrailleRAP-V5.80.jpg
-       : align: center
+       :align: center
 
 * Parafuse o conjunto de parafuso / porca de cabeça redonda na peça female e adicione o espaçador/extensor no centro da peça para que o conjunto entre no espaçador/extensor
 
 .. image :: ./IMG/BrailleRAP-V5.81.jpg
-       : align: center
+       :align: center
 
 * Monte a FEMALE_shape no TOP_trolley com os parafusos M3-12, as arruelas M3 e as porcas parlock M3 , deixando alguma folga.
 
 .. image :: ./IMG/BrailleRAP-V5.82.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.83.jpg
-       : align: center
+       :align: center
 
 * Posicione o IGUS na carcaça IGUS, respeitando a fenda, a seguir parafuse o carro com as porcas parlock M3.
 
 .. image :: ./IMG/BrailleRAP-V5.88.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.84.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.85.jpg
-       : align: center
+       :align: center
 
 * Coloque os parafusos M3-20 e as porcas M3.
 
 .. image :: ./IMG/BrailleRAP-V5.87.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.86.jpg
-       : align: center
+       :align: center
 
 
 Montagem do carro superior (etapa 2)
@@ -669,29 +669,29 @@ Material:
 * Passe os eixos  na metade da parte externa do chassi
 
 .. image :: ./IMG/BrailleRAP-V5.89.jpg
-       : align: center
+       :align: center
 
 * Passe o carro superior nas barras lisas.
 
 .. image :: ./IMG/BrailleRAP-V5.90.jpg
-       : align: center
+       :align: center
 
 * Termine de colocar as barras.
 
 .. Nota :: Um espaçado na extremidade da madeira deve permanecer visível.
 
 .. image :: ./IMG/BrailleRAP-V5.91.jpg
-       : align: center
+       :align: center
 
 * Aperte os parafusos dos apoios do eixo no corpo à esquerda e à direita.
 
 .. image :: ./IMG/BrailleRAP-V5.92.jpg
-       : align: center
+       :align: center
 
 * Parafuse os parafusos sem cabeça dos suportes do eixo à esquerda e à direita.
 
 .. image :: ./IMG/BrailleRAP-V5.93.jpg
-       : align: center
+       :align: center
 
 
 Instalando a correia no carro superior
@@ -710,7 +710,7 @@ Material:
 .. Nota: Por enquanto, não aperte os parafusos da polia no eixo.
 
 .. image :: ./IMG/BrailleRAP-V5.66.jpg
-       : align: center
+       :align: center
 
 
 Montagem do levantador de papel na placa
@@ -725,7 +725,7 @@ Material:
 * Aparafuse os 2 PAPER_raisers na placa por baixo com os parafusos de madeira.
 
 .. image :: ./IMG/BrailleRAP-V5.95.jpg
-       : align: center
+       :align: center
 
 
 Colagem da placa de suporte de papel
@@ -739,13 +739,13 @@ Material:
 * Cole os entalhes que ficarão em contato. Insira a placa pela frente e segure-a firmemente com fita adesiva durante o tempo de secagem.
 
 .. image :: ./IMG/BrailleRAP-V5.96.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.97.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.98.jpg
-       : align: center
+       :align: center
 
 
 
@@ -763,29 +763,29 @@ Material:
 .. NOTA :: Para maior clareza, isolamos a parte afetada.
 
 .. image :: ./IMG/BrailleRAP-V5.102.jpg
-       : align: center
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.101.jpg
-       : align: center
+       :align: center
 
 * Monte as guias de papel na placa com parafusos M3-16 e porcas parlockM3.
 
 
 .. image :: ./IMG/BrailleRAP-V5.99.jpg
-       : align: center
+       :align: center
 
 * Você deve obter uma vista superior como esta:
 
 
 .. image :: ./IMG/BrailleRAP-V5.100.jpg
-       : align: center
+       :align: center
 
 
 * Centralize os roletes nos orifícios da placa e aperte os parafusos sem cabeça até que os roletes estejam firmemente presos ao eixo.
 
 
 .. image :: ./IMG/BrailleRAP-V5.103.jpg
-       : align: center
+       :align: center
 
 
 Montagem dos prendedores de papel (etapa 1):
@@ -801,11 +801,11 @@ Material:
 * Monte os CLIPBOARDs com CLIPBOARD_wheel usando parafusos M3-20 e porcas parlock M3. Aperte o parafuso, permitindo que a roda gire.
 
 .. image :: ./IMG/BrailleRAP-V5.113.jpg
-       : align: center
+       :align: center
 
 
 .. image :: ./IMG/BrailleRAP-V5.114.jpg
-       : align: center
+       :align: center
 
 Montagem dos prendedores de papel (etapa 2):
 ----------------------------------------
@@ -822,11 +822,11 @@ Material:
 
 
 .. image :: ./IMG/BrailleRAP-V5.104.jpg
-       : align: center
+       :align: center
 
 
 .. image :: ./IMG/BrailleRAP-V5.105.jpg
-       : align: center
+       :align: center
 
 
 
@@ -843,12 +843,12 @@ Material:
 
 
 .. image :: ./IMG/BrailleRAP-V5.110.jpg
-       : align: center
+       :align: center
 
 
 
 .. image :: ./IMG/BrailleRAP-V5.111.jpg
-       : align: center
+       :align: center
 
 
 
@@ -924,8 +924,4 @@ Ajustando a profundidade do ponto braille
 
 
 .. image :: ./IMG/BrailleRAP-V5.112.jpg
-       : align: center
-
-
-
-
+       :align: center
