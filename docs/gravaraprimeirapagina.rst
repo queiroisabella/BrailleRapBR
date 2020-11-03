@@ -5,14 +5,14 @@ Grave seu primeiro texto em Braille
 
 BrailleRapSP é uma máquina acionada por G-CODE, para estampar braille é necessário antes de tudo traduzir o texto em Braille.
 Existem 2 soluções para traduzir Braille:
-O aplicativo BrailleRap online https://crocsg.github.io/BrailleRap/
+O aplicativo BrailleRap online em português está em https://hackatondeacessibilidade.github.io/BrailleRap-BR_Gerador-de-codigo/index.html
 O aplicativo NatBraille  http://natbraille.free.fr 
 
 
 Utilização do aplicativo BrailleRap
 ---------------------------------------
 
-vá para https://crocsg.github.io/BrailleRap/
+vá para https://hackatondeacessibilidade.github.io/BrailleRap-BR_Gerador-de-codigo/index.html
 
 .. image :: ./IMG/braillerapapp.png
        :align: center
