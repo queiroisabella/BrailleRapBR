@@ -873,7 +873,8 @@ Material:
 
 * Posicione 3 jumpers nos pinos indicados na posição de drivers X e Y
 
-ADICIONAR IMAGEM
+.. image :: ./IMG/JUMPERS RAMPS.JPG
+       :align: center
 
 * Adicione os drivers como indicado
 
@@ -892,11 +893,13 @@ ADICIONAR IMAGEM
 
 * Ligue os fios da fonte as entradas do Ramps
 
-ADICIONAR IMAGEM
+.. image :: ./IMG/RAMPS FONTE.JPG
+       :align: center
 
 
 * Ligar os fios da tomada a fonte
-ADICIONAR IMAGEM
+.. image :: ./IMG/IMG_20200723_165606.jpg
+       :align: center
 
 
 * Programar Arduino MEGA pela arduino IDE sem a ramps acoplada
