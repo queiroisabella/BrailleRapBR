@@ -878,18 +878,23 @@ Material:
 
 * Adicione os drivers como indicado
 
-ADICIONAR IMAGEM
+.. image :: ./IMG/driver.JPG
+       :align: center
 
 
 * Posicione os módulos fim de curso como indicado
-ADICIONAR IMAGEM
+.. image :: ./IMG/minimoendstop.JPG
+       :align: center
 
 * Adicione os cabos de NEMA 17 e posicione eles na entrada dos motores
-ADICIONAR IMAGEM
+.. image :: ./IMG/nema.JPG
+       :align: center
+
 
 * Acople os cabos de LCD no Ramps e no LCD posteriormente
- 
-ADICIONAR IMAGEM
+.. image :: ./IMG/lcd.JPG
+       :align: center 
+* Só ligar a lcd após os próximos 2 passos
 
 * Ligue os fios da fonte as entradas do Ramps
 
@@ -902,23 +907,14 @@ ADICIONAR IMAGEM
        :align: center
 
 
-* Programar Arduino MEGA pela arduino IDE sem a ramps acoplada
-
-ADICIONAR LINK DO CÒDIGO
-
-ADICIONAR PRINT DA TELA
-
-*Testar após carregamento do código se o LCD liga conforme o indicado na imagem:
-
-ADICIONAR IMAGEM
-
 
 Ajustando alinhamento vertical dos carros
 -------------------------------------------------- -
 
 *Posicionar os carros de forma que a agulha consiga entrar no grub acima, para isso testar manualmente empurrando o solenóide para cima
 
-ADICIONAR IMAGEM (isa)
+.. image :: ./IMG/IMG_20200823_144138.jpg
+       :align: center
 
 Ajustando a profundidade do ponto braille
 -------------------------------------------------- -
