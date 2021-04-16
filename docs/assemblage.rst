@@ -217,8 +217,6 @@ Material:
   * 2 porcas parlock M3
    * 1 abraçadeira do tipo “enforca gato”
 
-.. Nota :: Mude a imagem com suporte a switch (novo modelo).
-
 * Insira uma porca M3 e aperte um parafuso sem cabeça M3-8.
 
 .. image :: ./IMG/BrailleRAP-V5.57.jpg
